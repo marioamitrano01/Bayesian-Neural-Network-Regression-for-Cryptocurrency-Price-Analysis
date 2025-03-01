@@ -1,4 +1,4 @@
-# Bayesian Neural Network Regression for Cryptocurrency Price Analysis: Leveraging Stochastic Variational Inference, RidgeCV, and Huber Regression
+# Bayesian Neural Network Regression for Cryptocurrency Price Analysis: Leveraging Stochastic Variational Inference, RidgeCV and Huber Regression
 
 This project demonstrates the application of Bayesian Neural Networks using Pyro to analyze cryptocurrency prices. The model leverages techniques like Stochastic Variational Inference (SVI) for training, along with RidgeCV and Huber Regression for robust model initialization, using real data from the Binance API.
 
